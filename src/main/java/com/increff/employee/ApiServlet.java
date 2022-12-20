@@ -90,6 +90,7 @@ public class ApiServlet extends HttpServlet {
     @Override
     protected void doDelete(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         EmployeePojo p = JsonUtil.readJson(req);
+        System.out.println("hi" + p.getAge());
         try {
             api.delete(p.getId());
         } catch (SQLException e) {
