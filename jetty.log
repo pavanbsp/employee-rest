@@ -1,0 +1,94 @@
+2022-12-20 12:18:15 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 12:18:15 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 12:18:16 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 12:18:17 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 12:18:17 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 12:18:17 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 12:18:17 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 12:18:17 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 12:18:20 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 12:18:24 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@b889e7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 12:18:25 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 12:18:25 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2022-12-20 12:19:33 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 12:19:38 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 12:20:25 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 12:57:35 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 12:57:35 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 12:57:36 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 12:57:36 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 12:57:36 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 12:57:36 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 12:57:36 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 12:57:36 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 12:57:36 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 12:57:38 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3b49a349] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 12:57:38 INFO  EmployeeHibernateApi:22 - inserting employees
+2022-12-20 12:57:56 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 12:57:56 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2022-12-20 13:15:14 INFO  EmployeeHibernateApi:57 - updating employees
+2022-12-20 13:15:20 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 13:17:14 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 13:18:16 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 13:18:16 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 13:18:17 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 13:18:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 13:18:18 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 13:18:18 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 13:18:18 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 13:18:18 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 13:18:19 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 13:18:20 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@47e03fb7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 13:21:21 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 13:21:21 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 13:21:23 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 13:21:23 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 13:21:23 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 13:21:23 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 13:21:23 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 13:21:23 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 13:21:24 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 13:21:26 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@56350a9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 13:21:32 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 13:21:32 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2022-12-20 15:13:22 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 15:13:22 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 15:13:23 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 15:13:23 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 15:13:23 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 15:13:23 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 15:13:23 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 15:13:23 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 15:13:24 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 15:13:26 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2bbd12a1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 15:13:26 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 15:13:45 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 15:13:45 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2022-12-20 15:13:53 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 15:14:49 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 15:15:32 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 15:15:32 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 15:15:33 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 15:15:33 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 15:15:33 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 15:15:33 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 15:15:33 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 15:15:33 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 15:15:34 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 15:15:36 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@429ba700] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-12-20 15:15:36 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 15:15:37 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 15:15:37 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2022-12-20 15:17:00 INFO  EmployeeHibernateApi:44 - selecting all employees
+2022-12-20 15:17:07 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 15:17:12 INFO  EmployeeHibernateApi:33 - selecting an employee
+2022-12-20 15:28:54 INFO  Version:46 - HHH000412: Hibernate Core {5.4.0.Final}
+2022-12-20 15:28:54 INFO  Environment:199 - HHH000206: hibernate.properties not found
+2022-12-20 15:28:55 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-12-20 15:28:55 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-12-20 15:28:55 INFO  pooling:115 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/employee]
+2022-12-20 15:28:55 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=increff}
+2022-12-20 15:28:55 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2022-12-20 15:28:55 INFO  DriverManagerConnectionProviderImpl:239 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-12-20 15:28:56 INFO  Dialect:158 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-12-20 15:28:59 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5a04f4de] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
